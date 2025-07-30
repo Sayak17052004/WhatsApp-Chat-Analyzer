@@ -3,13 +3,13 @@
 A Streamlit web application to analyze your WhatsApp chat exports and gain insights into your messaging habits, sentiment trends, emoji usage, activity patterns, and participant behavior.
 
 ![App Screenshot](./assets/screenshot_1.png)
-![App Screenshot](./assets/screenshot_2)
-![App Screenshot](./assets/screenshot_3)
-![App Screenshot](./assets/screenshot_4)
-![App Screenshot](./assets/screenshot_5)
-![App Screenshot](./assets/screenshot_6)
-![App Screenshot](./assets/screenshot_7)
-![App Screenshot](./assets/screenshot_8)
+![App Screenshot](./assets/screenshot_2.png)
+![App Screenshot](./assets/screenshot_3.png)
+![App Screenshot](./assets/screenshot_4.png)
+![App Screenshot](./assets/screenshot_5.png)
+![App Screenshot](./assets/screenshot_6.png)
+![App Screenshot](./assets/screenshot_7.png)
+![App Screenshot](./assets/screenshot_8.png)
   
 ---
 
